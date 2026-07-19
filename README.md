@@ -24,9 +24,10 @@
 
 صفحات مهم:
 
-- [صفحه اصلی آرتا پیامک](https://artapayamak.com/)
-- [مستندات API ارسال پیامک OTP](https://artapayamak.com/sms-otp-api/)
-- [صفحه ارسال پیامک OTP](https://artapayamak.com/otp-sms/)
+
+- [آرتا پیامک](https://artapayamak.com/)
+- [API ارسال پیامک OTP](https://artapayamak.com/sms-otp-api/)
+- [ارسال پیامک OTP](https://artapayamak.com/otp-sms/)
 - [آموزش ارسال پیامک در n8n](https://artapayamak.com/send-sms-n8n/)
 
 ---
