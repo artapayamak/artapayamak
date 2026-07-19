@@ -22,14 +22,17 @@
 
 آرتا پیامک راهکارهای کاربردی برای ارسال پیامک خدماتی، OTP و اتصال سیستم‌ها ارائه می‌دهد.
 
-صفحات مهم:
-
+## صفحات مهم آرتا پیامک
 
 - [آرتا پیامک](https://artapayamak.com/)
 - [API ارسال پیامک OTP](https://artapayamak.com/sms-otp-api/)
 - [ارسال پیامک OTP](https://artapayamak.com/otp-sms/)
 - [آموزش ارسال پیامک در n8n](https://artapayamak.com/send-sms-n8n/)
-
+- [ارسال پیامک انبوه](https://artapayamak.com/bulk-sms/)
+- [پنل پیامک تبلیغاتی](https://artapayamak.com/panel-payamak-tabligati/)
+- [پنل پیامک خدماتی](https://artapayamak.com/panel-payamak-khadamati/)
+- [خرید پنل پیامکی](https://artapayamak.com/kharid-panel-payamaki/)
+- [پنل پیامکی](https://artapayamak.com/panel-payamaki/)
 ---
 
 ## چه چیزهایی اینجا منتشر می‌شود؟
